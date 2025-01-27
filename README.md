@@ -1,0 +1,6 @@
+1. [DOKKU_MANASA_EDA.pdf](./DOKKU_MANASA_EDA.pdf)  
+2. [DOKKU_MANASA_EDA.ipynb](./DOKKU_MANASA_EDA.ipynb)  
+3. [DOKKU_MANASA_Lookalike.csv](./DOKKU_MANASA_Lookalike.csv)  
+4. [DOKKU_MANASA_Lookalike.ipynb](./DOKKU_MANASA_Lookalike.ipynb)  
+5. [DOKKU_MANASA_Clustering.pdf](./DOKKU_MANASA_Clustering.pdf)  
+6. [DOKKU_MANASA_Clustering.ipynb](./DOKKU_MANASA_Clustering.ipynb)
